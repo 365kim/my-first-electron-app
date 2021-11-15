@@ -1,0 +1,23 @@
+{
+  "name": "my-first-electron-app",
+  "version": "1.0.0",
+  "description": "My First Electron App",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/365kim/my-first-electron-app.git"
+  },
+  "keywords": [],
+  "author": "365kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/365kim/my-first-electron-app/issues"
+  },
+  "homepage": "https://github.com/365kim/my-first-electron-app#readme",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  }
+}
